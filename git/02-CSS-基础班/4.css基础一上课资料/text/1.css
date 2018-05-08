@@ -1,0 +1,40 @@
+/*
+* @Author: Administrator
+* @Date:   2017-06-09 13:40:58
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-06-09 13:41:45
+*/
+.content{
+	width: 800px;
+	margin: 0 auto;
+}
+.content h1{
+	font: 28px microsoft yahei;
+	text-align: center;
+}
+.content .box{
+	text-align: center;
+}
+.text1,.text2{
+	font-size: 14px;
+}
+.text1{
+	color: rgba(190, 190, 190, 1.0);
+}
+.text2{
+	color: #990000;
+}
+.box input[type=text]{
+	color: red;
+}
+.box input[type=button]{
+	color: green;
+	font-weight: 700;
+}
+.content p{
+	text-indent: 2em;
+	line-height: 24px;
+}
+p span{
+	color: blue;
+}
